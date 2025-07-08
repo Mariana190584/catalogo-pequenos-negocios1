@@ -1,0 +1,13 @@
+body {
+  background-color: #fff8f0;
+}
+.hero {
+  padding: 60px 20px;
+}
+.btn-destaque {
+  background-color: #8B4513;
+  color: white;
+}
+.btn-destaque:hover {
+  background-color: #A0522D;
+}
